@@ -1,0 +1,120 @@
+  _______________________________________________                  _______
+ |  ___________      _______. ___________ _______|_      _________|_    _/
+ |  \    _____/_____(_______:/   __     /___  ____/_____/_   __    /___ |
+ | _/\_______     /         :   _______/   /  \__        /  ______/   / |
+ | \ _ __________/__________:_____________/_____/  Mo!  /____________/  |
+ |  \\ /                                       /_______/          l_____|
+ |   \/  SIEGEL/tRSi (/X-iNNOVATiON) PRESENTS    |
+ |      -------------------------------------    |
+ |                                               |
+ |                 BBS-View V1.13                |
+ |                                               |
+ |       fASTER tHAN lIGHT aNSI/aSCII vIEWER     |
+ |                                               |
+ | \                                             |
+ | \\                                            |
+ `-----------------------------------------------'
+
+Introduction
+~~~~~~~~~~~~
+A long time ago (about 3 years) i've coded an ANSI-Viewer for CLI-Usage in
+100% ASM-Code...I use this tool since the first time, but it had some dis-
+advantages i don't like very much...so I decided to fix all these nasty bugs
+to re-release it, but this time bugfixed...:)
+
+What it is
+~~~~~~~~~~
+A simple, but very fast animation viewer for ANSI'S & ASCII'S. It displays
+all textfiles on an own screen (naturally it's 640x256 PAL Screen, but you
+could promote it to your needs!) with an ANSI-Colortable, meaning you see
+all pictures like an user in your BBS could saw them!
+
+What it needs
+~~~~~~~~~~~~~
+Kickstart V37 or better (Kick 1.3 suxx!)
+asl.library V36 or better (for the FileRequester)
+Some Files to view...:)
+
+How it works
+~~~~~~~~~~~~
+Simple...start it direct from CLI, and BBS-View pops up a Filerequester and
+asks you for a filename...select NOPE!/ABORT to cancel operation, or double-
+click on a filename to view it.
+
+Of course you could give a filename to view it immediatly, for more infos
+enter 'BBS-VIEW ?' in CLI-Prompt.
+
+After displaying the Textfile, BBS-View waits for a left-Mouseclick to exit.
+
+If you view animations and don't want to see the whole anim, simply press
+the Closegadget to abort displaying.
+
+Greetings
+~~~~~~~~~
+ByteAndi/tRSi      - Thx for driving me so often !
+bYSIS/iNDY         - cODING rOOLEZ, nICE wORK !
+aRGON/pDY          - for support, testing etc..
+Strider/SDC        - I love FAME, it's the best ! :)
+
+......And all the rest I've forgot to list here....FUEHLT EUCH GEGRUESST! :)
+------------------------------------------------------------------------[EOF]-
+
+If you want to contact me or any other member of (tRSi/X-iNNOVATiON) for
+Bug-Reports, Suggestions, gettin' registered User or any other reason feel
+free to call these boards:
+
+        _____ __ __ _____ __ _____.--.__ ________ ___________ __
+ __ _ _/  ._ \_ |  \_    \__)     \_ | _/        \_ ___/     \_ l_  _
+   \ \\_  |/  / |  _/ |  _/\_  l___/ | \_  |  |  _/ _/\_  |  _/ _/_ /_
+       |   __/  |  |  |  |  l__   |     |  |  |  |  |  |  |  |  |  |  ||
+       |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  l  |  |  |  l  |  |:
+       l__|  l_____l__|  l__l__   l__|  l__|__|  l__   l__|  l__   |  ||
+          ÷2F÷        `--'     `--'  `--'     `--'  `--'  `--'  `--'
+
+    (tRSi/X-iNNOVATiON) WHQ & bETA sITE · aRT-cORE! gHQ · eTHIC dIST sITE
+
+                              __ _____ _____
+     A4ooo/o4o aT 4oMHZ      (__)     \_    |
+                             | \_  |  _/ l__|          sYSTEM-cHIEFS:
+     14mB rAM/66o mB HD      |  |  |  |  |__
+                             |  |  |  |  l  |  _  SieGeL/tRSi & aRGON/dTL
+      USR v.fAST 28.8k       l__l__|  l__   | (_)
+                                   `--'  `--'
+
+          ! sUPPORTING pD and sHAREWARE oNLY oN aMIGA aND IBM-PC !
+
+                        cALL +49(0)30 694 84 70
+                             +49(0)30 --sOON!--
+...or try here :
+
+     _______  ______ ______  ______  __      __  __ ________ _____ ________
+     \.  _ ~\|     ~|\.   ~\|     ~||.~|    |  || ~|\.     ~\\   ~\\.     ~\
+     |\\ ___/|  __ .||\\ __/|  __ .||| |    |  || .| \\ ____/|\  _/ \\ ____/
+     | \/\   |  __ |||.\/  ||  __ |||| |___ |_    || _\/_ .\ |.\/|  _\/_ .\
+     ||   \  |  || :||| |  ||  || :||: \  .\/ \__ ||/      \\||  | /      \\
+     |:___/  |__||_:||:_|__||__||__||:__\ //\_____:|\_______/|:__| \_______/
+      .            .  .              .   \/       .           .     -FuZzY-
+                                     .            .
+                   .  .                                       .
+     .-->  tRSi/X-iNNOVATiON GHQ --- Syndicate WHQ --- ULa Dist. Side  <---.
+     ·-> AMIEXPRESS V4.8/AMIGA 3000/630 MB HD/630 MB CD-ROM/24 H ONLINE  <-·
+     |                                                                     |
+     |                U.S.Robotics DUAL STANDARD V.34 Rulez                |
+     |                                                                     |
+     |      Sysop    : Spy/tRSi                                            |
+     |      Cosysops : Arthur Dent, PHANTOM, CINDARELLA/SR&ILa,            |
+     |                 Byteandi/tRSi, JTC, CAT, big-rat                    |
+     |      Nosysop  : Ljopo/ILa                                           |
+     |                                                                     |
+     |      PORT             NUMBER   MODEM   SPEED      NODETYPE          |
+     ·---+-------------------------------------------------------------+---·
+       D | NODE 1: +49(0)30 721 6071 USR V.34 28800 RINGDOWN NODE 1-3! | C
+       I | NODE 2: +49(0)30 721 6072 USR V.34 28800 DIRECT LINE ACCESS | A
+       A | NODE 3: +49(0)30 721 6073 USR V.34 28800 DIRECT LINE ACCESS | L
+       L | NODE 4: +49(0)30 722 6065 USR V.34 28800 DIRECT LINE ACCESS | L
+         | NODE 5: +49(0)30 721 9940 USR V.34 28800 DIRECT LINE ACCESS |
+     ·---+-------------------------------------------------------------+---·
+     |                                                                     |
+     |        G . I . V . E       I . T       A       R . I . N . G        |
+     |                                                                     |
+     ·--> SUPPORTING !PD-SOFTWARE ONLY! FOR: AMIGA, ATARI, IBM-PC & MAC <--·
